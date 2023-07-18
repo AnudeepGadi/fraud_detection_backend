@@ -1,0 +1,15 @@
+# Ignore .vscode directory
+.vscode/
+
+# Ignore PyCharm related files
+.idea/
+*.iml
+*.ipr
+*.iws
+/.idea/
+*.pyc
+
+# Ignore Python virtual environment
+/.venv/
+/Cassandra/cassandra-data
+/Kafka/ksqldb-cli-config
